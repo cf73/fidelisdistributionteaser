@@ -73,8 +73,8 @@
 <feGaussianBlur stdDeviation="1.5" result="effect1_foregroundBlur"/>
 </filter>
 <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(99.7179 99.7179) rotate(90) scale(99.2821)">
-<stop offset="0.102083" stop-color="#1C8DDF" stop-opacity="0.65"/>
-<stop offset="1" stop-color="#4A87BF" stop-opacity="0"/>
+<stop offset="0.4875" stop-color="#1C8DDF" stop-opacity="0.65"/>
+<stop offset="0.711458" stop-color="#4A87BF" stop-opacity="0.35"/>
 </radialGradient>
 <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 99.5001) rotate(88.2101) scale(32.0155 147.94)">
 <stop stop-color="white"/>
